@@ -26,7 +26,7 @@ Due to a refactoring that happened late in the project, these pull requests wher
 Most of the code from here is used in this [pr](https://github.com/NeuroML/pyNeuroML/commit/562c8249516ad8b15307a6f0e4345c6edaf62a4b) <br/> 
 
 
-This was used on ''add vispy pr'' and will be tweaked to match the refactored version<br/>
+This is used on this [vispy pr](https://github.com/vispy/vispy/pull/2619)  and will also be tweaked to match the refactored version<br/>
 * **[Add segment picking ability in 3D](https://github.com/NeuroML/pyNeuroML/pull/420)** <br/>
 
 ## Additional issues posted
@@ -37,3 +37,12 @@ This was used on ''add vispy pr'' and will be tweaked to match the refactored ve
 * https://github.com/vispy/vispy/issues/2603 <br/>
 * https://github.com/vispy/vispy/issues/2615 <br/>
 * https://github.com/vispy/vispy/issues/2617 <br/>
+
+## Takeaways of the experience
+* It was an incredible opportunity to dive into the exciting world of computational neuroscience, explore cutting-edge research, and gain a deep understanding of the field's complexities. This experience not only broadened my knowledge but also ignited a passion for further exploration and innovation in this rapidly evolving discipline.
+* I really got to hone my skills in studying documentation and debugging since this project involved a deep dive with both pyNeuroML and Vispy libraries, which is used to accomplish the 3d visualization
+* I got to delve deeper into the world of computer graphics with topics such as shading, transformations and meshes
+* Last, but not least, I got to interact with experts in the field, learn and apply clean coding practices and get more accustomed to github and its utilities
+
+### Acknwoledgments
+I would like to sincerely thank my mentors for their exceptional communication, patience, and support, not only in guiding me through the project but also in helping me embark on my journey into computational neuroscience. Their willingness to assist with every aspect of my learning, including the opportunity to attend lab meetings, has been invaluable.

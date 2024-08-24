@@ -26,7 +26,7 @@ Due to a refactoring that happened late in the project, these pull requests wher
 Most of the code from here is used in this [pr](https://github.com/NeuroML/pyNeuroML/commit/562c8249516ad8b15307a6f0e4345c6edaf62a4b) <br/> 
 
 
-This was used on ''add vispy pr'' <br/>
+This was used on ''add vispy pr'' and will be tweaked to match the refactored version<br/>
 * **[Add segment picking ability in 3D](https://github.com/NeuroML/pyNeuroML/pull/420)** <br/>
 
 ## Additional issues posted

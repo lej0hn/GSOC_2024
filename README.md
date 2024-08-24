@@ -44,5 +44,5 @@ This is used on this [vispy pr](https://github.com/vispy/vispy/pull/2619)  and w
 * I got to delve deeper into the world of computer graphics with topics such as shading, transformations and meshes
 * Last, but not least, I got to interact with experts in the field, learn and apply clean coding practices and get more accustomed to github and its utilities
 
-### Acknwoledgments
+### Acknowledgments
 I would like to sincerely thank my mentors for their exceptional communication, patience, and support, not only in guiding me through the project but also in helping me embark on my journey into computational neuroscience. Their willingness to assist with every aspect of my learning, including the opportunity to attend lab meetings, has been invaluable.

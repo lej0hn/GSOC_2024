@@ -41,7 +41,7 @@ This is used on this [vispy pr](https://github.com/vispy/vispy/pull/2619)  and w
 ## Takeaways of the experience
 * It was an incredible opportunity to dive into the exciting world of computational neuroscience, explore cutting-edge research, and gain a deep understanding of the field's complexities. This experience not only broadened my knowledge but also ignited a passion for further exploration and innovation in this rapidly evolving discipline.
 * I really got to hone my skills in studying documentation and debugging since this project involved a deep dive with both pyNeuroML and Vispy libraries, which is used to accomplish the 3d visualization
-* I got to delve deeper into the world of computer graphics with topics such as shading, transformations and meshes
+* I got to delve deeper into the world of computer graphics with topics such as shading, transformations and meshes/instanced meshes
 * Last, but not least, I got to interact with experts in the field, learn and apply clean coding practices and get more accustomed to github and its utilities
 
 ### Acknowledgments
